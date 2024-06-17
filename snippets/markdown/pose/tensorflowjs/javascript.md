@@ -12,7 +12,7 @@ Learn more about how to use the code snippet on [github](https://github.com/goog
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/pose
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "{{URL}}";
+    const URL = "{{https://teachablemachine.withgoogle.com/models/3LQWvl9xi/}}";
     let model, webcam, ctx, labelContainer, maxPredictions;
 
     async function init() {
